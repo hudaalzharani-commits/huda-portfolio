@@ -57,7 +57,7 @@ body.hov #cur .ring{width:48px;height:48px;border-color:rgba(140,106,79,.4)}
 .ldr-bar-bg{width:100%;max-width:480px;height:1px;background:rgba(245,241,234,.1)}
 .ldr-bar{height:100%;width:0;background:var(--brown);transition:width .06s linear}
 .ldr-meta{
-  display:flex;justify-content:space-between;
+  display:flex;justify-content:flex-end;
   margin-top:1.2rem;
   font-size:.65rem;letter-spacing:.2em;
   color:rgba(245,241,234,.2);font-family:var(--sans);
